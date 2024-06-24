@@ -4,7 +4,7 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Yuugi  # Name of your website
 tagline: Links  # Set your preferred page title
-description: A free, open-source Jekyll link-in-bio theme.  # Also used as a meta description
+description: This is just a collection of random links about what I do and where I can be found :)  # Also used as a meta description
 favicon:
   path: https://fudi.yuugi.dev/media/a9bfcfe9278f52676be23df40d31c69acb238ef5a528705da7c31c4c7625d2b1.jpg # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: jpeg # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
