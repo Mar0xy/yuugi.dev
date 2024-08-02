@@ -15,7 +15,7 @@ ga4: # Google Analytics 4 measurement ID, for e.g. G-XXXXXXX (optional). Remove 
 twitter:
   username: mar0xy # Used for SEO
 image:
-  path: https://fudi.yuugi.dev/media/77ba63c0f023cad2a9c2d515777bb227826660a699c2b8d0c6909172b130e814.jpg # Used for SEO (og:image, twitter:image)
+  path: assets/77ba63c0f023cad2a9c2d515777bb227826660a699c2b8d0c6909172b130e814.jpg # Used for SEO (og:image, twitter:image)
   type: jpeg # File format of image.
   height: 1995 # Pixels
   width: 1275
