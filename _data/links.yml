@@ -4,8 +4,11 @@ buttons:
   - category: Contributions
     items:
     - title: Sharkey
-      url: https://activitypub.software/TransFem-org/Sharkey
+      url: https://activitypub.software/TransFem-org/Sharkey/-/commits/develop?author=Marie
       icon: ion:flower-sharp
+    - title: An Anime Team
+      url: https://github.com/an-anime-team
+      icon: ion:game-controller
     - title: Tidal Hi-Fi
-      url: https://github.com/Mastermindzh/tidal-hifi
-      icon: ion:musical-notes-outline
+      url: https://github.com/Mastermindzh/tidal-hifi/commits/master/?author=Mar0xy
+      icon: ion:musical-notes
