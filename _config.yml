@@ -7,7 +7,7 @@ tagline: Links  # Set your preferred page title
 description: This is just a collection of random links about what I do and where I can be found :)  # Also used as a meta description
 favicon:
   path: https://catgirlx.com/files/3603c995-c841-45b0-a7e3-8ec5ded647a9.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
-  type: jpeg # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
+  type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
 logo: https://catgirlx.com/files/3603c995-c841-45b0-a7e3-8ec5ded647a9.png # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://yuugi.dev # URL of your website
 locale: en_GB # The value specifies the locale in which these tags are marked up. It follows the format `language_TERRITORY`.
