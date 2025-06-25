@@ -12,3 +12,6 @@ buttons:
     - title: Tidal Hi-Fi
       url: https://github.com/Mastermindzh/tidal-hifi/commits/master/?author=Mar0xy
       icon: ion:musical-notes
+    - title: Funkwhale
+      url: https://dev.funkwhale.audio/funkwhale/funkwhale
+      icon: ion:musical-notes
