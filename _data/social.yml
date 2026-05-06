@@ -1,8 +1,3 @@
-- name: Fedi
-  url: https://we.yap.tf/@marie
-  icon: ri:mastodon-fill
-  color: '#6364FF'
-
 - name: Email
   url: mailto:github@yuugi.dev
   icon: ri:mail-fill
